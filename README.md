@@ -6,10 +6,10 @@ A responsive and elegant movie search application built with **React** and the *
 
 ## Demo
 
-![Home Page Screenshot](.assets/Demo/movieSearch1.png)  
-![Movie List Screenshot](.assets/Demo/movieSearch2.png)
-![Movie Details Screenshot1](.assets/Demo/movieSearch3.png)
-![Movie Details Screenshot2](.assets/Demo/movieSearch4.png)
+![Home Page Screenshot](.src/assets/Demo/movieSearch1.png)  
+![Movie List Screenshot](.src/assets/Demo/movieSearch2.png)
+![Movie Details Screenshot1](.src/assets/Demo/movieSearch3.png)
+![Movie Details Screenshot2](.src/assets/Demo/movieSearch4.png)
 
 
 ---
