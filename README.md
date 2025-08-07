@@ -6,10 +6,10 @@ A responsive and elegant movie search application built with **React** and the *
 
 ## Demo
 
-![Home Page Screenshot](./Demo/movieSearch1.png)  
-![Movie List Screenshot](./Demo/movieSearch2.png)
-![Movie Details Screenshot1](./Demo/movieSearch3.png)
-![Movie Details Screenshot2](./Demo/movieSearch4.png)
+![Home Page Screenshot](.assets/Demo/movieSearch1.png)  
+![Movie List Screenshot](.assets/Demo/movieSearch2.png)
+![Movie Details Screenshot1](.assets/Demo/movieSearch3.png)
+![Movie Details Screenshot2](.assets/Demo/movieSearch4.png)
 
 
 ---
@@ -116,7 +116,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👨 Author
+##  Author
 
 **Sujilkumar**  
 GitHub: [@Sujil-kumar](https://github.com/Sujil-kumar)
